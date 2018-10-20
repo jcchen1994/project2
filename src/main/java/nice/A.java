@@ -7,5 +7,6 @@ public class A {
         System.out.println(4);
         System.out.println(8);
         System.out.println(1235);
+        int a=1;
     }
 }
