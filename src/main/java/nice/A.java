@@ -7,5 +7,7 @@ public class A {
         System.out.println(4);
         System.out.println(8);
         System.out.println(1235);
+        System.out.println(1234);
+        System.out.println(5678);
     }
 }
