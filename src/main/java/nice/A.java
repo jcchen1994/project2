@@ -5,6 +5,6 @@ public class A {
         System.out.println(12);
         System.out.println(3);
         System.out.println(4);
-        System.out.println(7)
+        System.out.println(8);
     }
 }
