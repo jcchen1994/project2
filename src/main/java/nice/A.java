@@ -10,6 +10,6 @@ public class A {
         int a=1;
         System.out.println(1234);
         System.out.println(5678);
-        System.out.println(78910);
+        System.out.println(789);
     }
 }
