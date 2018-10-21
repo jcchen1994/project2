@@ -13,5 +13,9 @@ public class A {
         System.out.println(789);
         System.out.println(78910);
         System.out.print(123);
+        System.out.print(456);
+        System.out.print(789);
+        System.out.print(8910);
+        int b=0;
     }
 }
