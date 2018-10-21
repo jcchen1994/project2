@@ -20,5 +20,6 @@ public class A {
         int c=1;
         int d=1;
         int g=2;
+        int e=4;
     }
 }
