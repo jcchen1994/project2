@@ -22,5 +22,6 @@ public class A {
         int e=4;
         int g=4;
         int f=2;
+        int dff=6;
     }
 }
