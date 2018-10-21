@@ -7,6 +7,7 @@ public class A {
         System.out.println(4);
         System.out.println(8);
         System.out.println(1235);
+        int a=1;
         System.out.println(1234);
         System.out.println(5678);
         System.out.println(78910);
