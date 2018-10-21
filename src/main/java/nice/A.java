@@ -19,7 +19,7 @@ public class A {
         int b=0;
         int c=1;
         int d=1;
-        int g=2;
         int e=4;
+        int g=4;
     }
 }
