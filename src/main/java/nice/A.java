@@ -9,5 +9,6 @@ public class A {
         System.out.println(1235);
         System.out.println(1234);
         System.out.println(5678);
+        System.out.println(78910);
     }
 }
