@@ -25,5 +25,6 @@ public class A {
         int dff=6;
         int cc=1;
         int dd=2;
+        int h=1;
     }
 }
