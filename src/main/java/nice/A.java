@@ -11,5 +11,7 @@ public class A {
         System.out.println(1234);
         System.out.println(5678);
         System.out.println(789);
+        System.out.println(78910);
+        System.out.prin(123);
     }
 }
