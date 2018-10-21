@@ -18,5 +18,6 @@ public class A {
         System.out.print(8910);
         int b=0;
         int c=1;
+        int d=1;
     }
 }
