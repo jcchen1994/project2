@@ -23,6 +23,7 @@ public class A {
         int g=4;
         int f=2;
         int dff=6;
-        int c=1;
+        int cc=1;
+        int dd=2;
     }
 }
